@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Forked from https://github.com/barryclark/jekyll-now
+Forked from [https://github.com/barryclark/jekyll-now](https://github.com/barryclark/jekyll-now)
 
 ### More Information
 
