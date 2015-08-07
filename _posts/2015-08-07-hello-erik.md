@@ -9,4 +9,4 @@ title: Hello Erik
 _Joe is officially passing the blogging torch to Erik!_
 
 + Get data from [NIFC FTP](http://ftp.nifc.gov/)
-+ etc
++ more to come
