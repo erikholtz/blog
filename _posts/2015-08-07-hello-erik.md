@@ -9,4 +9,5 @@ title: Hello Erik
 _Joe is officially passing the blogging torch to Erik!_
 
 + Get data from [NIFC FTP](http://ftp.nifc.gov/)
-+ more to come
++ Merge shapefiles with the OSGeo Shell - example at [North River Geographic] (http://www.northrivergeographic.com/ogr2ogr-merge-shapefiles)
++ Use the Time Manager plugin in QGIS to make time lapse animations (requires a date or time field)
